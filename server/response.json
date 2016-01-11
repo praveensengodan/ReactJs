@@ -1,0 +1,29 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "fghjk",
+      "work": "rtyui"
+    },
+    {
+      "id": 2,
+      "name": "ertyu",
+      "work": "rtyhuji"
+    },
+    {
+      "id": 3,
+      "name": "ertyu",
+      "work": "rtyhuji"
+    },
+    {
+      "id": 4,
+      "name": "werty",
+      "work": "ertyu"
+    },
+    {
+      "id": 5,
+      "name": "qwerty",
+      "work": "ertyui"
+    }
+  ]
+}
